@@ -4,7 +4,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>maven-release-plugin</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -19,7 +19,7 @@
     <scm>
         <developerConnection>scm:git:https://github.com/IwantBeJavaDev/maven-release-plugin.git</developerConnection>
         <url>https://github.com/IwantBeJavaDev/maven-release-plugin</url>
-      <tag>HEAD</tag>
+      <tag>maven-release-plugin-1.1</tag>
   </scm>
 
 
